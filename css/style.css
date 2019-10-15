@@ -59,7 +59,7 @@ body {
 }
 
 .contact {
-  background: rgba(58, 150, 121, 1);
+  background: #3a9679;
   color: #fff;
   font-family: "Montserrat", sans-serif;
   font-size: 1em;
@@ -72,7 +72,7 @@ body {
 }
 
 .contact:hover {
-  background: rgba(58, 150, 121, 0.8);
+  background: #247D61;
 }
 
 /* Menu 1 */
